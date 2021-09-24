@@ -24,3 +24,6 @@ console.log(destination, restaurant, transportation, entertainment)
 
 //Prompt user to select complete or to randomize again
 let userInput = prompt('Type "Complete" if your trip is to your liking, otherwise type Try Again.')
+
+
+//Create a while loop
